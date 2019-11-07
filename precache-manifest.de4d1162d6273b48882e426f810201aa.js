@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2948cbbde44906353e956fd93df2c2b",
+    "revision": "7cc7cbcb85501f381116ad0efb7fb5b3",
     "url": "/index.html"
   },
   {
-    "revision": "e468c9ae78d7c7c45a14",
+    "revision": "508b2aabebe1e32920e4",
     "url": "/static/css/2.7e51cb54.chunk.css"
   },
   {
-    "revision": "81066e5889fad0e23bba",
-    "url": "/static/css/main.e3edcd37.chunk.css"
+    "revision": "5f65ecc3fb563636c254",
+    "url": "/static/css/main.cec4ae8e.chunk.css"
   },
   {
-    "revision": "e468c9ae78d7c7c45a14",
-    "url": "/static/js/2.19db73b7.chunk.js"
+    "revision": "508b2aabebe1e32920e4",
+    "url": "/static/js/2.431dfc83.chunk.js"
   },
   {
-    "revision": "81066e5889fad0e23bba",
-    "url": "/static/js/main.1796807f.chunk.js"
+    "revision": "5f65ecc3fb563636c254",
+    "url": "/static/js/main.91357820.chunk.js"
   },
   {
     "revision": "85b5a1c25f798d645955",
@@ -60,15 +60,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Simple-Line-Icons.f33df365.eot"
   },
   {
-    "revision": "d291ccad4efd784856c2345eda975c34",
-    "url": "/static/media/kapr.d291ccad.md"
+    "revision": "c4f7dd985d5f1a8db934159d6e833c25",
+    "url": "/static/media/kapr.c4f7dd98.md"
   },
   {
     "revision": "25bf045ca257e971124f3997d89f321c",
     "url": "/static/media/logo.25bf045c.svg"
   },
   {
-    "revision": "51fc5b94b0144e127c005440210da54b",
-    "url": "/static/media/stika.51fc5b94.md"
+    "revision": "eadc5b7835c7ebd721d07fdb6d660a55",
+    "url": "/static/media/stika.eadc5b78.md"
+  },
+  {
+    "revision": "d5f97ede80de31f32090a6ef9ceb0f14",
+    "url": "/static/media/sumec.d5f97ede.md"
+  },
+  {
+    "revision": "13b1dcce2dee4aa5d1fa8061f5351f22",
+    "url": "/static/media/vogonska poezie.13b1dcce.md"
   }
 ]);
